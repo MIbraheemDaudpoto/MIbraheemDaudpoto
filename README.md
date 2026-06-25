@@ -127,8 +127,6 @@
 ---
 ⭐ From [MIbraheemDaudpoto](https://github.com/MIbraheemDaudpoto)
 
-"Learn, Build, Share, Inspire."
-
 ### 💡 Quote
 
 "Learn, Build, Share, Inspire."
