@@ -2,10 +2,12 @@
 
 <div align="center">
 
-### 🚀 BS Information Technology Student | Web Developer | AI Enthusiast
+### 🚀 BS Information Technology Student | Full Stack Web Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Cybersecurity+Enthusiast;Campus+Ambassador;Tech+Content+Creator;Always+Learning+New+Things" />
-![](https://komarev.com/ghpvc/?username=MIbraheemDaudpoto&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=MIbraheemDaudpoto\&color=blueviolet)
+
 </div>
 
 ---
@@ -22,18 +24,11 @@
 
 🤖 Google AI Seekho Participant
 
-📚 Learning AI, Machine Learning & Agent Development
+📚 Learning AI, Machine Learning, LangChain, LangGraph & Agent Development
 
 🌐 Building Full Stack Applications using MERN Stack
 
-🎥 Tech Content Creator
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MIbraheemDaudpoto&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+🎥 Tech Content Creator & Founder of Digital Trends by Ibraheem
 
 
 ## 🛠️ Tech Stack
@@ -68,29 +63,26 @@
 ## 🚀 Featured Projects
 
 ### 🚔 Digital FIR System for Sindh Police
+
 *Google AI Seekho Program Hackathon*
 
 • Created a centralized digital First Information Report (FIR) software system tailored for the Sindh Police infrastructure.
 
-🔗 Live Link: Access System
-
 ---
 
 ### 💬 WhatsApp Chat Analyzer
+
 *Competition Winner*
 
 • Developed a full-stack analytical web application to process exported WhatsApp chats and generate conversational insights, activity metrics, and engagement reports.
 
-🔗 Live Link: Access Analyzer
-
 ---
 
 ### 📚 Master Bookland Management System
+
 *Independent Software Solution*
 
 • Engineered a comprehensive inventory and enterprise management system utilizing Lovable and Cursor to streamline business operations.
-
-🔗 Live Link: Access Management System
 
 ---
 
@@ -132,6 +124,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MIbraheemDaudpoto)
 ---
+---
+⭐ From [MIbraheemDaudpoto](https://github.com/MIbraheemDaudpoto)
+
+"Learn, Build, Share, Inspire."
 
 ### 💡 Quote
 
